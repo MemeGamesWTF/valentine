@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1739531683,
+	"version": 1739532943,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -17,6 +17,7 @@
 		"images/particles.png",
 		"images/banana__2d_art-sheet0.png",
 		"images/sprite-sheet0.png",
+		"images/tiledbackground-sheet0.png",
 		"media/tap.m4a",
 		"media/tap.ogg",
 		"media/pop.m4a",
