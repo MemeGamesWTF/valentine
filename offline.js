@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1739524398,
+	"version": 1739530035,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -15,8 +15,14 @@
 		"images/hearts-sheet1.png",
 		"images/bg-sheet0.png",
 		"images/particles.png",
+		"images/banana__2d_art-sheet0.png",
+		"images/sprite-sheet0.png",
 		"media/tap.m4a",
 		"media/tap.ogg",
+		"media/pop.m4a",
+		"media/pop.ogg",
+		"media/valentines confusion - bgm.m4a",
+		"media/valentines confusion - bgm.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
